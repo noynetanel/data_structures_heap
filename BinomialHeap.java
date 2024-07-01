@@ -1,7 +1,4 @@
-// username- noynetanel1
-// id1- 206590879
 // name1- Noy Netanel
-// id2- 318731437
 // name2- Ofir Strull
 
 /**
